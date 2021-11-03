@@ -1,2 +1,3 @@
 # ej-permit-scraping
-This script scrapes air pollution policy data from regulatory documents to empower community activists in California's central valley.
+In February 2021, a team of Stanford Earth Systems students faced the challenge of parsing through over 600 permit reports from stationary air pollution sources in Stockton, CA to isolate what air quality policies and pollutants were mentioned most. They set out to do this manually, which may have taken a month; however, their community partners needed results by the end of the week. 
+I volunteered to write a script to automate the process. After hours of testing and communication with the students, I arrived at this script, which produced precise and quantitative data to support community environmental justics advocates in time for their next public meeting.
